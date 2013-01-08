@@ -8,4 +8,6 @@ git commit -m "insira mensagem aqui"
 git parâmetro -help
 
 gedit .gitignore
-git rm <nome> --cached
+git rm <nome do arquivo> --cached  <<<remove arquivo
+
+git log <<<historico
