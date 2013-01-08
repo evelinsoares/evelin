@@ -1,0 +1,11 @@
+Curso de GIT
+primeira aula
+
+
+git status
+git add .
+git commit -m "insira mensagem aqui"
+git parâmetro -help
+
+gedit .gitignore
+git rm <nome> --cached
